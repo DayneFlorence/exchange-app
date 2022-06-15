@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello
+          This is testing github/heroku connection!
         </a>
       </header>
     </div>
